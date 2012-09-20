@@ -1,0 +1,17 @@
+.outline-element {
+    outline: 1px solid #CC0000;
+}
+
+.tpath
+{
+    color: red;
+}
+.hpath
+{
+    color:blue;
+}
+
+.contentpath
+{
+    color:green;
+}
